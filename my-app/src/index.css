@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer components {
+  .container1441 {
+    @apply mx-auto;
+    width: 1441px;
+  }
+}
+
+
+html,
+body {
+  scroll-behavior: smooth;
+}
