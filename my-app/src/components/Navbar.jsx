@@ -40,7 +40,7 @@ const Navbar = () => {
                             className="ml-2 text-xl font-semibold text-[#334155]"
                             onClick={() => setIsMenuOpen(false)}
                         >
-                            BywayBywayBywayBywayByway
+                            Byway
                         </Link>
                     </div>
                     <div className="hidden lg:block relative">
